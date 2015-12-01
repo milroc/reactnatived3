@@ -1,0 +1,3 @@
+rootProject.name = 'natived3'
+
+include ':app'
